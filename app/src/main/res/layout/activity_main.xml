@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rl_main"
+    tools:context="com.example.pavel.testpokupon.views.MainActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Test"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            android:textColor="@color/Text2"
+            android:layout_marginTop="11dp"            />
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/pokupon_logo"/>
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_input_main"
+        android:layout_width="300dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="50dp"
+        android:hint="@string/hint_git"
+        android:layout_centerHorizontal="true"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rv_main"
+        android:layout_below="@id/et_input_main"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp">
+
+    </android.support.v7.widget.RecyclerView>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fl_container_main"
+        android:layout_below="@id/rv_main"
+        android:layout_marginTop="64dp">
+    </FrameLayout>
+
+</RelativeLayout>

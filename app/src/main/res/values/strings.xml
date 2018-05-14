@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Pokupon</string>
+    <string name="hint_git">write name organization</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recent_search">Recent Search</string>
+</resources>
