@@ -1,6 +1,6 @@
 package com.example.pavel.testpokupon.views;
 
-import com.example.pavel.testpokupon.model.RepCard;
+import com.example.pavel.testpokupon.models.RepCard;
 
 import java.util.ArrayList;
 

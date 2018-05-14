@@ -1,6 +1,6 @@
 package com.example.pavel.testpokupon.utilits;
 
-import com.example.pavel.testpokupon.model.Config;
+import com.example.pavel.testpokupon.models.Config;
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 
 import retrofit2.Retrofit;

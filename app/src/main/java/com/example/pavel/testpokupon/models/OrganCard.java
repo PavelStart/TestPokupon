@@ -1,4 +1,4 @@
-package com.example.pavel.testpokupon.model;
+package com.example.pavel.testpokupon.models;
 
 /**
  * Created by Pavel on 12.05.2018.

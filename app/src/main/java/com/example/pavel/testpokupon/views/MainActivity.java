@@ -21,8 +21,8 @@ import android.widget.TextView;
 
 import com.example.pavel.testpokupon.R;
 import com.example.pavel.testpokupon.adapters.OrganAdapter;
-import com.example.pavel.testpokupon.model.Config;
-import com.example.pavel.testpokupon.model.OrganCard;
+import com.example.pavel.testpokupon.models.Config;
+import com.example.pavel.testpokupon.models.OrganCard;
 import com.example.pavel.testpokupon.presenters.IPresenter;
 import com.example.pavel.testpokupon.presenters.MainPresenter;
 import com.example.pavel.testpokupon.utilits.NetState;

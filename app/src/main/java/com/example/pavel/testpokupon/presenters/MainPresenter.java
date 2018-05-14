@@ -2,8 +2,8 @@ package com.example.pavel.testpokupon.presenters;
 
 import android.content.Context;
 
-import com.example.pavel.testpokupon.model.OrganCard;
-import com.example.pavel.testpokupon.model.OrganResponse;
+import com.example.pavel.testpokupon.models.OrganCard;
+import com.example.pavel.testpokupon.models.OrganResponse;
 import com.example.pavel.testpokupon.utilits.NetState;
 import com.example.pavel.testpokupon.utilits.RetrofitSingleton;
 import com.example.pavel.testpokupon.views.IActivity;

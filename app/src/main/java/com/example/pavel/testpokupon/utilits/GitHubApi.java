@@ -1,7 +1,7 @@
 package com.example.pavel.testpokupon.utilits;
 
-import com.example.pavel.testpokupon.model.OrganResponse;
-import com.example.pavel.testpokupon.model.repmodel.RepResponse;
+import com.example.pavel.testpokupon.models.OrganResponse;
+import com.example.pavel.testpokupon.models.repmodel.RepResponse;
 
 import java.util.List;
 

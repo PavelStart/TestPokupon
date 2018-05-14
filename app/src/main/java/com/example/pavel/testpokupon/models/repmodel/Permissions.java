@@ -1,5 +1,5 @@
 
-package com.example.pavel.testpokupon.model.repmodel;
+package com.example.pavel.testpokupon.models.repmodel;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

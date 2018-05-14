@@ -2,8 +2,8 @@ package com.example.pavel.testpokupon.presenters;
 
 import android.content.Context;
 
-import com.example.pavel.testpokupon.model.RepCard;
-import com.example.pavel.testpokupon.model.repmodel.RepResponse;
+import com.example.pavel.testpokupon.models.RepCard;
+import com.example.pavel.testpokupon.models.repmodel.RepResponse;
 import com.example.pavel.testpokupon.utilits.NetState;
 import com.example.pavel.testpokupon.utilits.RetrofitSingleton;
 import com.example.pavel.testpokupon.views.IRepActivity;

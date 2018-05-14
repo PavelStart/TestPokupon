@@ -5,7 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.example.pavel.testpokupon.model.OrganCard;
+import com.example.pavel.testpokupon.models.OrganCard;
 
 import java.util.ArrayList;
 

@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.pavel.testpokupon.R;
-import com.example.pavel.testpokupon.model.RepCard;
+import com.example.pavel.testpokupon.models.RepCard;
 
 import java.util.ArrayList;
 

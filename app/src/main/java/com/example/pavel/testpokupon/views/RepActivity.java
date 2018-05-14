@@ -17,7 +17,7 @@ import android.widget.TextView;
 import com.example.pavel.testpokupon.R;
 import com.example.pavel.testpokupon.adapters.BaseAdapter;
 import com.example.pavel.testpokupon.adapters.RepAdapter;
-import com.example.pavel.testpokupon.model.RepCard;
+import com.example.pavel.testpokupon.models.RepCard;
 import com.example.pavel.testpokupon.presenters.IRepPresenter;
 import com.example.pavel.testpokupon.presenters.RepPresenter;
 

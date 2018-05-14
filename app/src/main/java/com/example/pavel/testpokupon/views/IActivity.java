@@ -1,6 +1,6 @@
 package com.example.pavel.testpokupon.views;
 
-import com.example.pavel.testpokupon.model.OrganCard;
+import com.example.pavel.testpokupon.models.OrganCard;
 
 /**
  * Created by Pavel on 12.05.2018.
